@@ -56,12 +56,12 @@ body {
   cursor: pointer;
 }
 .btn-login {
-  background: #4ecdc4;
+  background: #040404;
   color: white;
   border: none;
 }
 .btn-learn {
-  background: #4ecdc4;
+  background: #0d0e0d;
   color: white;
   padding: 18px 40px;
   font-size: 18px;
@@ -73,12 +73,12 @@ body {
   box-shadow: 0 4px 16px rgba(78, 205, 196, 0.15);
 }
 .btn-learn:hover {
-  background: #45b7aa;
+  background: #0a0a0a;
   transform: translateY(-2px) scale(1.05);
   color: white;
 }
 .btn-login:hover {
-  background: #45b7aa;
+  background: #0b0b0b;
   color: white;
   transform: translateY(-2px);
 }
@@ -147,7 +147,7 @@ body {
   max-width: 500px;
 }
 .btn-learn {
-  background: #4ecdc4;
+  background: #0b0b0b;
   color: white;
   padding: 18px 40px;
   font-size: 18px;
@@ -159,12 +159,12 @@ body {
   box-shadow: 0 4px 16px rgba(78, 205, 196, 0.15);
 }
 .btn-learn:hover {
-  background: #45b7aa;
+  background: #101111;
   transform: translateY(-2px) scale(1.05);
   color: white;
 }
 .btn-login {
-  background: #4ecdc4;
+  background: #040404;
   color: white;
   border: none;
 }
@@ -190,7 +190,7 @@ section {
 }
 section h2 {
   font-size: 40px;
-  color: #4ecdc4;
+  color: #070808;
   margin-bottom: 20px;
   text-align: center;
 }
